@@ -37,6 +37,11 @@ nav li {
   font-size: 0.8em;
 }
 
+.nav-end-c ul li {
+  display: flex;
+  align-items: center;
+}
+
 /*!
  * Bootstrap  v5.3.2 (https://getbootstrap.com/)
  * Copyright 2011-2023 The Bootstrap Authors

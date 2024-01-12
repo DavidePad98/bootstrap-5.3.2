@@ -45,6 +45,15 @@ nav {
   font-size: 0.8em;
 }
 
+.nav-end-c {
+  ul {
+    li {
+      display: flex;
+      align-items: center;
+    }
+  }
+}
+
 // -----------------------
 
 @import "./scss/bootstrap.scss";
